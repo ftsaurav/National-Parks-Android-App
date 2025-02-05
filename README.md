@@ -1,4 +1,3 @@
-National Parks App
 📌 Overview
 The National Parks App is an Android application designed to help users explore various U.S. national parks with an intuitive and seamless navigation experience. Built using fragments, the app ensures a smooth transition between different sections. It features a RecyclerView to display a list of parks efficiently, along with detailed pages for each park, providing essential information in a well-organized manner.
 
