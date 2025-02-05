@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">National Parks</string>
+    <string name="map">Map</string>
+    <string name="parks">Parks</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="info_unavailable">Information Not Available</string>
+    <string name="no_directions">No any information of Direction</string>
+    <string name="hint_search">Enter State Code (like abli, yose, zion)</string>
+</resources>
