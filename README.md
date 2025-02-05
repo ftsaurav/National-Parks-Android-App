@@ -9,11 +9,11 @@ Park Details Page – Each park has a dedicated page with essential information.
 Optimized Performance – Lightweight and efficient, designed for a smooth user experience.
 
 🛠️ Tech Stack
-Language – Java/Kotlin
+Language – Java
 Framework – Android SDK
 UI Components – RecyclerView, Fragments, ViewModel
-Architecture – MVVM (if implemented)
-Libraries – Glide/Picasso (for image loading), Retrofit (if fetching data from an API)
+Architecture – MVVM
+Libraries – Glide/Picasso (for image loading)
 
 
 🔗 Future Enhancements
